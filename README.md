@@ -17,12 +17,12 @@ websocket-chat/
 ```
 
 ## Hasil Eksperimen
-##### ![Gambar 1](ss/gambar1.png).
-##### ![Gambar 1](ss/gambar2.png).
+##### ![Gambar 1](ss web2/gambar1.png).
+##### ![Gambar 1](ss web2/gambar2.png).
 Pada tab pertama mengisi Ussername Budi dan pada tab kedua mengisi Username Sari.
 
-##### ![Gambar 1](ss/gambar3.png).
-##### ![Gambar 1](ss/gambar4.png).
+##### ![Gambar 1](ss web2/gambar3.png).
+##### ![Gambar 1](ss web2/gambar4.png).
 Pada kedua gambar tersebut. Terdapat notifikasi pada masing-masing tab ketika ke-dua user tersebut bergabung kedalam chat. kemudian, ketika Budi mencoba memulai pesan pertama, pesan tersebut langsung muncul pada tab yang digunakan oleh Sari. Hal ini membuktikan bahwa WebScoket tidak harus meminta ulang ketika permbaruaan terjadi.
-##### ![Gambar 1](ss/gambar5.png).
+##### ![Gambar 1](ss web2/gambar5.png).
 Ketika Budi keluar dari percakapan maka sistem akan mengirim informasi bahwa Budi telah keluar dari chat.
